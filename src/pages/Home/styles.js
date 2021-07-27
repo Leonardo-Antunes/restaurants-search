@@ -35,11 +35,9 @@ export const Map = styled.div`
 
 export const Carousel = styled(Slider)`
   .slick-slide {
-    margin-right: 16px;
+    margin-right: 30px;
   }
 `;
-
-
 
 export const CarouselTitle = styled.h1`
   font-family: ${(props) => props.theme.fonts.regular};
