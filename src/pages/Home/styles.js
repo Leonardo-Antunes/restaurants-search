@@ -40,6 +40,7 @@ export const Carousel = styled(Slider)`
 `;
 
 
+
 export const CarouselTitle = styled.h1`
   font-family: ${(props) => props.theme.fonts.regular};
   color: ${(props) => props.theme.colors.text};
